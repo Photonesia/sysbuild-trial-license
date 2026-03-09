@@ -1,0 +1,47 @@
+SysBuild - Mainframe CI/CD Extension
+Copyright © 2026 PT Bank Central Asia Tbk — Group Strategic Information Technology (GSIT), SIS-A, MFOLTP
+
+────────────────────────────────────────────────────────────────
+NO-SHARE / RESTRICTED USE LICENSE
+────────────────────────────────────────────────────────────────
+
+IMPORTANT — READ CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+
+By installing, copying, or otherwise using this extension ("Software"), you agree to the terms of this license. If you do not agree, do not install or use the Software.
+
+1. GRANT OF LICENSE
+   BCA GSIT SIS-A ("Licensor") grants you a limited, non-exclusive, non-transferable, revocable license to use this Software solely for internal BCA mainframe development activities as authorized by the SIS-A team.
+
+2. RESTRICTIONS
+   You may NOT:
+   a. Share, distribute, sublicense, sell, rent, lease, or transfer the Software or any copy thereof to any third party.
+   b. Publish, upload, or make the Software available through any public or private channel outside of BCA's internal network.
+   c. Modify, reverse-engineer, decompile, or disassemble the Software except as permitted by applicable law.
+   d. Remove or alter any proprietary notices, labels, or markings on the Software.
+   e. Use the Software outside of the scope of BCA internal mainframe development.
+
+3. TIME-LIMITED USE
+   This copy of the Software includes a time-limited license mechanism. The Software will cease to function after the expiry date embedded at the time of distribution. Attempting to circumvent or disable this mechanism constitutes a material breach of this license.
+
+4. OWNERSHIP
+   The Software is the exclusive property of BCA GSIT SIS-A. This license does not transfer any ownership rights. All intellectual property rights remain with the Licensor.
+
+5. CONFIDENTIALITY
+   The Software, including its source code, build artifacts, and documentation, is confidential. Recipients must treat it with the same level of care used to protect their own confidential information, but no less than reasonable care.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE LICENSOR DISCLAIMS ALL WARRANTIES INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SOFTWARE.
+
+8. TERMINATION
+   This license is effective until terminated. It terminates automatically if you breach any term. Upon termination, you must immediately cease using and destroy all copies of the Software.
+
+9. GOVERNING LAW
+   This license is governed by the laws of the Republic of Indonesia.
+
+────────────────────────────────────────────────────────────────
+For questions or to obtain an updated license, contact:
+KOMANG ANDREAWAN AMBRI
+────────────────────────────────────────────────────────────────
